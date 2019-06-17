@@ -4,7 +4,7 @@
 }
 
 .row-content {
-    margin:0px 0px 0px 0px;
+    margin-top: 30px;
     padding: auto 0px;
     min-height:400px;
 }
@@ -27,4 +27,10 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
-
+.navbar-dark{
+  background: #551A8B;
+  color: floralwhite;
+}
+.media{
+  margin-top: 30px;
+}
