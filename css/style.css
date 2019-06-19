@@ -4,9 +4,11 @@
 }
 
 .row-content {
-    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom:20px;
     padding: auto 0px;
-    min-height:300px;
+    min-height:200px;
+    border-bottom:1px;
 }
 
 .footer{
@@ -39,4 +41,17 @@ address{
   background: #ffce42;
   color: white;
   margin:0px;
+}
+
+.someting{
+  border-bottom: 0.5px grey;
+}
+
+
+.reserve-table-button{
+  background: #ffce42;
+  color: black;
+  margin: auto auto;
+  padding: auto;
+
 }
