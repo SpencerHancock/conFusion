@@ -4,9 +4,9 @@
 }
 
 .row-content {
-    margin-top: 30px;
+    margin-top: 10px;
     padding: auto 0px;
-    min-height:400px;
+    min-height:300px;
 }
 
 .footer{
@@ -33,4 +33,10 @@ address{
 }
 .media{
   margin-top: 30px;
+}
+
+.reserve-table{
+  background: #ffce42;
+  color: white;
+  margin:0px;
 }
